@@ -1,0 +1,53 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: violet;
+}
+
+h1{
+  border: 2px solid blue;
+  background-color: green;
+  text-align: center;
+  color: white;
+  height: 10vh;
+  padding-top: 18px;
+}
+
+h2{
+  color: blue;
+  background-color: black;
+}
+
+p{
+  color: black;
+  font-style: italic;
+  font-size: 2em;
+}
+
+h3{
+  padding-top: 18px;
+  padding-left: 10px;
+  height: 9vh;
+  background-color: red;
+}
+
+img{
+  /* margin: 290px; */
+  height: 100vh;
+}
+
+ul{
+  margin-bottom: 10px;
+  height: 20vh;
+}
+
+li{
+  color: white;
+}
+
+h4{
+  padding: 20px;
+  color: lightblue;
+}
