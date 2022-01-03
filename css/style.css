@@ -16,6 +16,7 @@ h1{
 }
 
 h2{
+  text-align: center;
   color: blue;
   background-color: black;
 }
@@ -27,8 +28,8 @@ p{
 }
 
 h3{
-  padding-top: 18px;
-  padding-left: 10px;
+  text-align: center;
+  padding-top: 14px;
   height: 9vh;
   background-color: red;
 }
@@ -50,4 +51,11 @@ li{
 h4{
   padding: 20px;
   color: lightblue;
+}
+h5{
+  text-align: center;
+  color: skyblue;
+  background-color: red;
+  height: 8vh;
+  padding-top: 14px;
 }
